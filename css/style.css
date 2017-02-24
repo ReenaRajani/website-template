@@ -1,0 +1,23 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.vision-statement-container,
+.mission-statement-container,
+.values-statement-container {
+  padding: 0 15px;
+}
+
+.page-footer {
+  padding: 0.25em;
+}
+
+.fa {
+  color: white;
+  font-size: 3em !important;
+  margin: 0 0.25em;
+}
